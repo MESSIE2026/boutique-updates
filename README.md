@@ -46,3 +46,6 @@ Application professionnelle de gestion de boutique (POS) développée en C#.
 
 ## 👨‍💻 Auteur
 Messie Matala
+
+📫 Me contacter
+Email : messiematala77@gmail.com
