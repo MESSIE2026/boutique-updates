@@ -1,35 +1,37 @@
-# 👋 Salut, moi c'est Messie Matala
+# 🛒 MESSIEMATALA POS
 
-💻 Développeur Full-Stack .NET  
-📍 Kinshasa, RDC  
+## 📌 Description
+Application professionnelle de gestion de boutique (POS) développée en C#.
 
 ---
 
-## 🚀 Technologies
-- C# / .NET
+## 🚀 Modules
+- BoutiqueRebuildFixed : application principale
+- BoutiqueSetup : installation
+- PosDbScanner : outils base de données
+
+---
+
+## 🧰 Technologies
+- C# (.NET Framework)
 - SQL Server
 - WinForms
-- Blazor
-- Entity Framework
 
 ---
 
-## 📦 Projets principaux
-- 🛒 Application de gestion de boutique (POS)
-- 📊 Gestion de stock avec lots et expiration
-- 🔐 Système multi-clients (multi-tenant)
+## ⚙️ Fonctionnalités
+- Gestion des ventes
+- Gestion du stock
+- Gestion des produits
+- Gestion des lots et dates d’expiration
 
 ---
 
-## 📫 Me contacter
-- Email : messiematala77@gmail.com
-
-- ## 📸 Aperçu
----<img width="901" height="520" alt="Capture d&#39;écran 2026-02-28 134215" src="https://github.com/user-attachments/assets/6914a27e-ec31-4304-acdf-14b26beab39a" />
-
-
-## 🔥 Objectif
-Créer des solutions professionnelles pour les entreprises africaines.
+## 🖥️ Installation
+1. Installer SQL Server
+2. Lancer l'application
+3. Configurer la base de données
+4. Utiliser
 
 ---
 
