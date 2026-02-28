@@ -1,0 +1,2 @@
+-- Structure de la base de données
+-- Tables, relations, contraintes
