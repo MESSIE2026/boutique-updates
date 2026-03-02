@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <title>MESSIEMATALA POS Updates</title>
+    <link>https://MESSIE2026.github.io/MESSIEMATALA-POS/</link>
+    <description>Flux de mises à jour MESSIEMATALA POS</description>
 
     <item>
-      <title>v1.0</title>
+      <title>MESSIEMATALA POS v1.0</title>
       <version>1.0.0</version>
-      <enclosure url="https://github.com/MESSIE2026/MESSIEMATALA-POS/releases/download/v1.0/MESSIEMATALA-POS-Setup.zip" />
+      <enclosure
+        url="https://github.com/MESSIE2026/MESSIEMATALA-POS/releases/download/v1.0/MESSIEMATALA-POS-Setup.zip"
+        />
     </item>
 
   </channel>
