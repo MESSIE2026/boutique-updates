@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MESSIEMATALA POS Updates</title>
+
+    <item>
+      <title>v1.0</title>
+      <version>1.0.0</version>
+      <enclosure url="https://github.com/MESSIE2026/MESSIEMATALA-POS/releases/download/v1.0/MESSIEMATALA-POS-Setup.zip" />
+    </item>
+
+  </channel>
+</rss>
