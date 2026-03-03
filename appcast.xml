@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-
   <channel>
     <title>MESSIEMATALA POS Updates</title>
     <link>https://messie2026.github.io/MESSIEMATALA-POS/</link>
     <description>Flux de mises à jour</description>
 
     <item>
-      <title>MESSIEMATALA POS v1.1</title>
+      <title>TEST UPDATE FORCÉ (99.0.0)</title>
 
       <enclosure
         url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/v1.1/MESSIEMATALA-POS-Setup.zip"
-        sparkle:version="2.0.0"
-        sparkle:shortVersionString="2.0.0"
+        sparkle:version="99.0.0"
+        sparkle:shortVersionString="99.0.0"
         length="12345678"
         type="application/zip" />
     </item>
