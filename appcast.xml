@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 
   <channel>
     <title>MESSIEMATALA POS Updates</title>
     <link>https://messie2026.github.io/MESSIEMATALA-POS/</link>
-    <description>Flux de mises à jour MESSIEMATALA POS</description>
-    <language>fr</language>
+    <description>Flux de mises à jour</description>
 
     <item>
       <title>MESSIEMATALA POS v1.1</title>
-      <pubDate>Tue, 03 Mar 2026 10:00:00 +0100</pubDate>
 
-      <!-- OPTIONNEL mais utile -->
-      <sparkle:releaseNotesLink>
-        https://messie2026.github.io/MESSIEMATALA-POS/release-notes-1.1.html
-      </sparkle:releaseNotesLink>
-
-      <!-- IMPORTANT : tout se joue ici -->
       <enclosure
         url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/v1.1/MESSIEMATALA-POS-Setup.zip"
         sparkle:version="1.1.0"
