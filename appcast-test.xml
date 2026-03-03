@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MESSIEMATALA POS Updates - TEST</title>
+    <link>https://messie2026.github.io/MESSIEMATALA-POS/</link>
+    <description>Flux TEST (force update)</description>
+
+    <item>
+      <title>TEST UPDATE FORCE 99.0.0</title>
+      <enclosure
+        url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/v1.1/MESSIEMATALA-POS-Setup.zip"
+        sparkle:version="99.0.0"
+        sparkle:shortVersionString="99.0.0"
+        length="12345678"
+        type="application/zip" />
+    </item>
+
+  </channel>
+</rss>
