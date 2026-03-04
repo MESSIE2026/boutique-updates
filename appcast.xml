@@ -10,6 +10,7 @@
     <item>
       <title>MESSIEMATALA POS v1.1</title>
       <pubDate>Tue, 03 Mar 2026 10:00:00 +0100</pubDate>
+      <description>Mise à jour v1.1</description>
 
       <enclosure
         url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/v1.1/MESSIEMATALA-POS-Setup.exe"
@@ -19,5 +20,6 @@
         length="12345678"
         type="application/octet-stream" />
     </item>
+
   </channel>
 </rss>
