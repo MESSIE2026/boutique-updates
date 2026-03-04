@@ -15,7 +15,7 @@
       <enclosure
         url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/v1.2.0/MESSIEMATALA-POS-Setup.exe"
         sparkle:version="1.2.0"
-        sparkle:shortVersionString="1.2.0"
+        sparkle:shortVersionString="1.2.1"
         sparkle:os="windows"
         length="LENGTH_BYTES"
         type="application/octet-stream" />
