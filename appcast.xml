@@ -13,7 +13,7 @@
       <description>Mise à jour v1.2.4</description>
 
       <enclosure
-       url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/1.2.3/MESSIEMATALA-POS.msi"
+       url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/1.2.4/MESSIEMATALA-POS.msi"
         sparkle:version="1.2.4"
         sparkle:shortVersionString="1.2.4"
         sparkle:os="windows"
