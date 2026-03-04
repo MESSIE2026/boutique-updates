@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>MESSIEMATALA POS Updates - TEST</title>
     <link>https://messie2026.github.io/MESSIEMATALA-POS/</link>
@@ -10,15 +9,15 @@
 
     <item>
       <title>TEST UPDATE FORCE</title>
-      <pubDate>Tue, 03 Mar 2026 10:00:00 +0100</pubDate>
+      <pubDate>Wed, 04 Mar 2026 10:00:00 +0100</pubDate>
       <description>Update test.</description>
 
       <enclosure
-        url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/v1.1/MESSIEMATALA-POS-Setup.exe"
+        url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/v1.2.0/MESSIEMATALA-POS-Setup.exe"
         sparkle:version="9999.0.1"
         sparkle:shortVersionString="9999.0.1"
         sparkle:os="windows"
-        length="12345678"
+        length="LENGTH_BYTES"
         type="application/octet-stream" />
     </item>
 
