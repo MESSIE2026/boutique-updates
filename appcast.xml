@@ -13,11 +13,11 @@
       <description>Mise à jour v1.2.5</description>
 
       <enclosure
-       url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/1.2.5/MESSIEMATALA-POS.msi"
+       url="https://github.com/messie2026/MESSIEMATALA-POS/releases/download/1.2.5/MESSIEMATALA-POS-Setup.exe"
         sparkle:version="1.2.5"
         sparkle:shortVersionString="1.2.5"
         sparkle:os="windows"
-        length="21478912"
+        length="548864"
         type="application/octet-stream" />
     </item>
 
