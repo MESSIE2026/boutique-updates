@@ -8,14 +8,14 @@
     <language>fr</language>
 
     <item>
-      <title>MESSIEMATALA POS v1.2.2</title>
+      <title>MESSIEMATALA POS v1.2.3</title>
       <pubDate>Wed, 04 Mar 2026 10:00:00 +0100</pubDate>
-      <description>Mise à jour v1.2.2</description>
+      <description>Mise à jour v1.2.3</description>
 
       <enclosure
-        url="https://github.com/MESSIE2026/MESSIEMATALA-POS/releases/download/1.2.2/MESSIEMATALA-POS-Setup.exe"
-        sparkle:version="1.2.2"
-        sparkle:shortVersionString="1.2.2"
+        url="https://github.com/MESSIE2026/MESSIEMATALA-POS/releases/download/1.2.3/MESSIEMATALA-POS-Setup.exe"
+        sparkle:version="1.2.3"
+        sparkle:shortVersionString="1.2.3"
         sparkle:os="windows"
         length="548352"
         type="application/octet-stream" />
